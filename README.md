@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**GabBeiro/GabBeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gab Beiró. Sou estudante do curso Técnico em Informatica no Colégio Politécnico da Universidade Federal de Santa Maria **(UFSM)**, porém ja possuo uma prévia experiência na área. Atualmente estou no segundo semestre, e utilizarei o GitHub na disciplina de Engenharia de Software.
 
-Here are some ideas to get you started:
+Sou natural de Santa Maria, Rio Grande do Sul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Competências
+
+Tenho experiência autodidata na área de informática desde 2018, com foco em manutenção de computadores, notebooks e smartphones, cabeamento de rede e consultorias técnicas;
+
+Já trabalhei com softwares de edição de imagem e modelagem 3D, como pacote Adobe, Rhinoceros e Invetor.
+
+### 📱 Redes Sociais
+
+- [Instagram](https://instagram.com/beiro_gab)
+- [Behance](https://behance.net/beirogibs)
+- [Twitter](https://x.com/gab_beiro)
+
+### ✉️ Contato
+
+beirogibs@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
